@@ -1,0 +1,2 @@
+verify given proteins are connected
+essential proteins - present in all diseases, need to remove those
