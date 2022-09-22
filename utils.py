@@ -37,3 +37,6 @@ def load_network():
 
     return G
         
+if __name__ == '__main__':
+    G = load_network()
+    nx.write_graphml(G, 'graph.graphml') 
