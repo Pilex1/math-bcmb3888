@@ -1,0 +1,12 @@
+shortest path length between communities
+shortest paths between proteins
+
+
+check complex
+
+PDA1, 
+
+
+one with 4 is the complex
+one with 3 is the regulators
+P
